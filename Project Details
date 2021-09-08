@@ -7,16 +7,16 @@ This blog purpose is analysing Airbnb bookings in Seattle to understand more how
 4. What might influence reviewer rating?
 5. What are the busiest times of the year to visit Seattle? and its reflection on prices?
 
-** DATA**
+**DATA**
 In this project I used 2 datasets from Kaggle Seattle Airbnb Page https://www.kaggle.com/airbnb/seattle/data:
 
-## Data Understanding <a name="Data Understanding"></a>
+**Data Understanding**
 First, let us have a look at the listings dataset to understand more about bookings in seattle through Airbnb
 
-## Overview of listings dataset <a name="Overview of listings dataset"></a>
+**Overview of listings dataset**
 Read the csv file using pandas as given below:
 
-## Observations about the dataset: <a name="Observations about the dataset:"></a>
+**Observations about the dataset**
 
 1. There are 3813 records in this dataset with around 92 attributes
 2. There are 4 attributes with missing data more than 50 % of the records of the attribute
