@@ -53,7 +53,7 @@ If we explore the dataset more, we can see that the above top neighborhoods prov
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/bed.png)
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/bath.png)
 
-If we check the above list, we can see that "Magnolia", "Queen Ann" and "Down Town" are the top 3 expensive neighborhoods. If we explore the data deeper we will find that these 3 neighborhoods are among the most spacious properties in terms of property type, number of rooms, number of bedrooms and even the number of guests it can hold
+If we check the above list, we can see that "Magnolia", "Queen Ann",  "Down Town" and "West Seattle" are the top expensive neighborhoods. If we explore the data deeper we will find that these 3 neighborhoods are among the most spacious properties in terms of property type, number of rooms, number of bedrooms and even the number of guests it can hold
 
 
 ### **Q4: What might influence review rating for a booking?**
