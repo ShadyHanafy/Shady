@@ -19,7 +19,7 @@ First, let us have a look at the listings dataset to understand more about booki
 
 ## **Overview of listings dataset**
 
-Read the csv file using pandas as given below:
+Sample view for the dataset content
 
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/data.png)
 
