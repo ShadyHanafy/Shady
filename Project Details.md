@@ -11,7 +11,7 @@ This blog purpose is analysing Airbnb bookings in Seattle to understand more how
 
 ## **DATA**
 
-In this project I used 2 datasets from Kaggle Seattle Airbnb Page https://www.kaggle.com/airbnb/seattle/data:
+In this project I used the datasets from Kaggle Seattle Airbnb Page https://www.kaggle.com/airbnb/seattle/data:
 
 ## **Data Understanding**
 
