@@ -26,6 +26,10 @@ For this project, I was interestested in using Seattle Airbnb dataset to better 
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
+1. Property_booking.ipynb : Explore the listing dataset and understand the customers
+2. Seattle Busiest Time.ipynb : Find the busiest time of the year in seattle and its reflection on prices
+3. Price_Predict.ipynb : Model to try to predict the prices
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
