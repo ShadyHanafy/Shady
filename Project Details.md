@@ -31,14 +31,14 @@ Sample view for the dataset content
 After data preparation and cleansing, now let's try to answer the above questions
 
 ## **Looking for Answers**
-##### **Q1: What are the most booked Seattle neighborhoods?**
+### **Q1: What are the most booked Seattle neighborhoods?**
 
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/bookedneighb.png)
 
 Using the attribute of the "neighbourhood_group_cleansed" which groups the neighborhoods and by excluding the "other Neighborhoods" we can see that "Capitol Hill" , "Down Towm" and "Central Area" are the top 3 booked neighborhoods in the dataset
 
 
-##### **Q2: What factors affect the above behavior?**
+### **Q2: What factors affect the above behavior?**
 
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/prop_typ.png)
 ![This is an image](https://github.com/ShadyHanafy/Shady/blob/main/hosp.png)
